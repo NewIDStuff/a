@@ -1,0 +1,17 @@
+[
+    {
+        "Username": "john_doe",
+        "Email": "john.doe@example.com",
+        "Verified": true
+    },
+    {
+        "Username": "jane_smith",
+        "Email": "jane.smith@example.com",
+        "Verified": true
+    },
+    {
+        "Username": "guest_user",
+        "Email": "guest.user@example.com",
+        "Verified": false
+    }
+]
